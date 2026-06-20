@@ -4,3 +4,5 @@ __pycache__/
 data/*.csv
 data/*.json  data/*.csv 
 data/*.txt 
+server.key
+*.key
